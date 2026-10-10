@@ -99,6 +99,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Canjear.aspx" />
+    <Content Include="MostrarArticulos.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -184,6 +186,28 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="Canjear.aspx.cs">
+      <DependentUpon>Canjear.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Canjear.aspx.designer.cs">
+      <DependentUpon>Canjear.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MostrarArticulos.aspx.cs">
+      <DependentUpon>MostrarArticulos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MostrarArticulos.aspx.designer.cs">
+      <DependentUpon>MostrarArticulos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\AccesoDatos.cs" />
+    <Compile Include="Negocio\ArticuloNegocio.cs" />
+    <Compile Include="Negocio\CategoriaNegocio.cs" />
+    <Compile Include="Negocio\ClienteNegocio.cs" />
+    <Compile Include="Negocio\ImagenNegocio.cs" />
+    <Compile Include="Negocio\MarcaNegocio.cs" />
+    <Compile Include="Negocio\VoucherNegocio.cs" />
+    <Compile Include="Utilitarios\Class1.cs" />
     <Compile Include="Voucher.aspx.cs">
       <DependentUpon>Voucher.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -240,7 +264,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Negocio\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

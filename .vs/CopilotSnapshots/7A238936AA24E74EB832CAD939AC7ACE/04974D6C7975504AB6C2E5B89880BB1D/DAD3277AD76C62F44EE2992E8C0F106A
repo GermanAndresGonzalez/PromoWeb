@@ -1,0 +1,67 @@
+﻿using Dominio;
+using Negocio;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace PromoWeb
+{
+    public partial class About : Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+                txtVoucher.Text = "Ingrese el código del voucher";
+        }
+
+        protected void txtVoucher_TextChanged(object sender, EventArgs e)
+        {
+            string strVoucher = txtVoucher.Text;
+            if (strVoucher == "")
+            {
+                lblErrorVoucher.Text = "Error";
+                txtVoucher.Text = "Error";
+            }
+        }
+
+        protected void btnVoucher_Click(object sender, EventArgs e)
+        {
+            if (txtVoucher.Text == null)
+            {
+                lblErrorVoucher.Text = "Debe completar el campo";
+            }
+            else
+            {
+                VoucherNegocio voucherBuscado = new VoucherNegocio();
+                if (!voucherBuscado.EstaDisponible(txtVoucher.Text))
+                {
+                    lblErrorVoucher.Text = "No está disponible";
+                }
+                    
+                else
+                {
+                    lblErrorVoucher.Text = "Está disponible";
+                }
+            }
+            /*
+                VoucherNegocio voucherBuscado = new VoucherNegocio();
+                if (!voucherBuscado.EstaDisponible(txtVoucher.Text))
+                {
+                    return;
+                }
+                else
+                {
+                    lblErrorVoucher.Text = "Disponible";
+                }
+            
+            }
+               */
+        }
+
+    }
+}
+

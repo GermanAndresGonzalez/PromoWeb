@@ -10,7 +10,8 @@
             <div class="row">
                 <div class="col-3">
                     <div class="p-3">
-                        <asp:Label ID="lblVoucher"
+                        <asp:Label
+                            ID="lblVoucher"
                             Text="Código de voucher"
                             CssClass="form-label"
                             runat="server" />
@@ -18,20 +19,24 @@
                 </div>
                 <div class="col-5">
                     <div class="p-3">
-                        <asp:TextBox ID="txtVoucher"
-                            Text=""
+                        <asp:TextBox
+                            ID="txtVoucher"
                             CssClass="form-control"
-                            AutoPostBack="True"
-                            runat="server" OnTextChanged="txtVoucher_TextChanged" />
+                            runat="server" />
+
+
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="p-3">
-                        <asp:Button ID="btnVoucher"
+                        
+                        <asp:Button
+                            ID="btnVoucher"
                             Text="Buscar Código"
                             CssClass="btn btn-primary"
                             AutoPostBack="True"
-                            runat="server" OnClick="btnVoucher_Click" />
+                            OnClick="btnVoucher_Click"
+                            runat="server"  />
                     </div>
                 </div>
             </div>
@@ -44,7 +49,6 @@
                 <div class="col-4">
                     <div class="p-3">
                         <asp:Label ID="lblErrorVoucher"
-                            Text=""
                             Color="Red"
                             CssClass="form-label"
                             style="font-weight:bold;color:red;"
