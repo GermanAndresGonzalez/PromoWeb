@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|d:\\utn-tecnicatura\\repositorios2026\\promoweb\\promoweb\\mostrararticulos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\mostrararticulos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|d:\\utn-tecnicatura\\repositorios2026\\promoweb\\promoweb\\ingdatoscliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\ingdatoscliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|d:\\utn-tecnicatura\\repositorios2026\\promoweb\\promoweb\\negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\mostrararticulos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\mostrararticulos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\canjear.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\canjear.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\canjear.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\canjear.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\voucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\voucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\ingdatoscliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\ingdatoscliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\voucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\voucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\canjear.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\canjear.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\canjear.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\canjear.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\mostrararticulos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\mostrararticulos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\mostrararticulos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\mostrararticulos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\promoweb\\negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA580D8-D37A-40F2-BECB-B1DE4E1C07CA}|PromoWeb\\PromoWeb.csproj|solutionrelative:promoweb\\negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,58 +54,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImagenNegocio.cs",
-              "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Negocio\\ImagenNegocio.cs",
-              "RelativeDocumentMoniker": "PromoWeb\\Negocio\\ImagenNegocio.cs",
-              "ToolTip": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Negocio\\ImagenNegocio.cs",
-              "RelativeToolTip": "PromoWeb\\Negocio\\ImagenNegocio.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAYwH8AAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "IngDatosCliente.aspx.cs",
+              "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\IngDatosCliente.aspx.cs",
+              "RelativeDocumentMoniker": "PromoWeb\\IngDatosCliente.aspx.cs",
+              "ToolTip": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\IngDatosCliente.aspx.cs",
+              "RelativeToolTip": "PromoWeb\\IngDatosCliente.aspx.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwDcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T20:18:25.7Z",
+              "WhenOpened": "2026-10-10T23:12:57.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Voucher.aspx.cs",
-              "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Voucher.aspx.cs",
-              "RelativeDocumentMoniker": "PromoWeb\\Voucher.aspx.cs",
-              "ToolTip": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Voucher.aspx.cs",
-              "RelativeToolTip": "PromoWeb\\Voucher.aspx.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T18:22:46.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Site.Master",
-              "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Site.Master",
-              "RelativeDocumentMoniker": "PromoWeb\\Site.Master",
-              "ToolTip": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Site.Master",
-              "RelativeToolTip": "PromoWeb\\Site.Master",
+              "DocumentIndex": 1,
+              "Title": "IngDatosCliente.aspx",
+              "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\IngDatosCliente.aspx",
+              "RelativeDocumentMoniker": "PromoWeb\\IngDatosCliente.aspx",
+              "ToolTip": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\IngDatosCliente.aspx",
+              "RelativeToolTip": "PromoWeb\\IngDatosCliente.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-10T17:51:59.591Z",
+              "WhenOpened": "2026-10-10T21:26:02.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MostrarArticulos.aspx.cs",
               "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\MostrarArticulos.aspx.cs",
               "RelativeDocumentMoniker": "PromoWeb\\MostrarArticulos.aspx.cs",
               "ToolTip": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\MostrarArticulos.aspx.cs",
               "RelativeToolTip": "PromoWeb\\MostrarArticulos.aspx.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAiwE0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-10T17:31:36.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MostrarArticulos.aspx",
               "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\MostrarArticulos.aspx",
               "RelativeDocumentMoniker": "PromoWeb\\MostrarArticulos.aspx",
@@ -114,20 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Canjear.aspx.cs",
               "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Canjear.aspx.cs",
               "RelativeDocumentMoniker": "PromoWeb\\Canjear.aspx.cs",
               "ToolTip": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Canjear.aspx.cs",
               "RelativeToolTip": "PromoWeb\\Canjear.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwBsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-10T17:30:24.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Canjear.aspx",
               "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Canjear.aspx",
               "RelativeDocumentMoniker": "PromoWeb\\Canjear.aspx",
@@ -140,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Voucher.aspx",
               "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Voucher.aspx",
               "RelativeDocumentMoniker": "PromoWeb\\Voucher.aspx",
@@ -148,7 +140,34 @@
               "RelativeToolTip": "PromoWeb\\Voucher.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-10T03:57:21.931Z"
+              "WhenOpened": "2026-10-10T03:57:21.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Site.Master",
+              "RelativeDocumentMoniker": "PromoWeb\\Site.Master",
+              "ToolTip": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Site.Master",
+              "RelativeToolTip": "PromoWeb\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-10T23:09:54.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImagenNegocio.cs",
+              "DocumentMoniker": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Negocio\\ImagenNegocio.cs",
+              "RelativeDocumentMoniker": "PromoWeb\\Negocio\\ImagenNegocio.cs",
+              "ToolTip": "D:\\UTN-Tecnicatura\\Repositorios2026\\PromoWeb\\PromoWeb\\Negocio\\ImagenNegocio.cs",
+              "RelativeToolTip": "PromoWeb\\Negocio\\ImagenNegocio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T20:44:59.114Z",
+              "EditorCaption": ""
             }
           ]
         }

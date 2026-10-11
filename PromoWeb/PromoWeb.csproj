@@ -100,6 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Canjear.aspx" />
+    <Content Include="IngDatosCliente.aspx" />
     <Content Include="MostrarArticulos.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
@@ -192,6 +193,13 @@
     </Compile>
     <Compile Include="Canjear.aspx.designer.cs">
       <DependentUpon>Canjear.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IngDatosCliente.aspx.cs">
+      <DependentUpon>IngDatosCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IngDatosCliente.aspx.designer.cs">
+      <DependentUpon>IngDatosCliente.aspx</DependentUpon>
     </Compile>
     <Compile Include="MostrarArticulos.aspx.cs">
       <DependentUpon>MostrarArticulos.aspx</DependentUpon>

@@ -125,9 +125,29 @@ namespace Negocio
                 datos.cerrarConexion();
             }
         }
-    
-    
-    
-    
+
+        public string ObtenerPrimeraImagenUrl(int idArticulo)
+        {
+            try
+            {
+                var imagenes = Listar(idArticulo);
+
+                if (imagenes != null && imagenes.Count > 0 &&
+                    !string.IsNullOrWhiteSpace(imagenes[0].ImagenUrl))
+                {
+                    return imagenes[0].ImagenUrl;
+                }
+
+                return null;
+            }
+            catch
+            {
+                return null;
+            }
+        }
+
+
+
+
     }
 }

@@ -45,7 +45,7 @@ namespace PromoWeb
             var items = new List<object>();
             foreach (var art in lista)
             {
-                string url = ObtenerPrimeraImagenUrl(art.Id);
+                string url = _imagenNegocio.ObtenerPrimeraImagenUrl(art.Id);
                 items.Add(new
                 {
                     Id = art.Id,
@@ -59,23 +59,7 @@ namespace PromoWeb
             rptArticulos.DataBind();
         }
 
-        private string ObtenerPrimeraImagenUrl(int idArticulo)
-        {
-            try
-            {
-                var imagenes = _imagenNegocio.Listar(idArticulo);
-                if (imagenes != null && imagenes.Count > 0 &&
-                    !string.IsNullOrWhiteSpace(imagenes[0].ImagenUrl))
-                {
-                    return imagenes[0].ImagenUrl;
-                }
-            }
-            catch
-            {
-                // Si falla la carga de imágenes, no rompemos la grilla
-            }
-            return null; // El markup usa ResolveUrl + fallback a ImagenDefault
-        }
+
 
         protected void rptArticulos_ItemCommand(object source, RepeaterCommandEventArgs e)
         {
@@ -94,7 +78,7 @@ namespace PromoWeb
 
                 // Y disparamos el modal
                 //MostrarModalArticulo(seleccionado);
-                Response.Redirect("Canjear.aspx", false);
+                Response.Redirect("IngDatosCliente.aspx", false);
             }
         }
         private Articulo ObtenerArticuloPorId(int id)

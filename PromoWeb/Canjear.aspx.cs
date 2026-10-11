@@ -1,4 +1,5 @@
 ﻿using Dominio;
+using Negocio;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,13 +13,32 @@ namespace PromoWeb
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            lblCliente.Text = Session["voucher"] as string;
+            if (!IsPostBack)
+            {   
+                /*
+                //lblCliente.Text = Session["voucher"] as string;
+                //Articulo seleccionado = Session["ArticuloSeleccionado"] as Articulo;
+                if (seleccionado == null)
+                {
+                    Response.Redirect("MostrarArticulos.aspx", false);
+                    return;
+                }
 
-            Articulo seleccionado = new Articulo();
-            seleccionado = Session["ArticuloSeleccionado"] as Articulo;
-            //seleccionado.Imagenes
+                CargarDatos(seleccionado);
+                */
 
-            lblID.Text = seleccionado.Nombre;
+
+            }
         }
+        protected void CargarDatos(Articulo seleccionado)
+        {
+            ImagenNegocio imaNegocio = new ImagenNegocio();
+            string urlIma = imaNegocio.ObtenerPrimeraImagenUrl(seleccionado.Id) as string;
+            imgArticulo.ImageUrl = urlIma;
+            txtNombre.Text = seleccionado.Nombre;
+            
+        }
+
+
     }
 }
